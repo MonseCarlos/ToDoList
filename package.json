@@ -1,0 +1,18 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Raquel Monserrat Carlos <raquel_monserrat@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  },
+  "devDependencies": {
+    "json-server": "^0.15.0"
+  }
+}
