@@ -25,7 +25,7 @@ function createListItem(item){
     const liElement = document.createElement('li')
     liElement.innerHTML = `
         <p> ${item.text} </p>
-        <button>Eliminar</buttom>`
+        <button >Eliminar</buttom>`
 
         return liElement
 }
